@@ -1,0 +1,7 @@
+
+[submodule "prereqs/binutils-gdb"]
+	path = prereqs/binutils-gdb
+	url = git://sourceware.org/git/binutils-gdb.git
+[submodule "prereqs/gcc"]
+	path = prereqs/gcc
+	url = git://gcc.gnu.org/git/gcc.git
